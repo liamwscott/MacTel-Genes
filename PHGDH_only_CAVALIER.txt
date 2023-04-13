@@ -1,0 +1,2 @@
+gene	list_id	list_name
+PHGDH	MT:1	MacTel_Genes
